@@ -129,58 +129,71 @@
 ---
 
 ![Woman](https://upload.wikimedia.org/wikipedia/commons/a/aa/Happy_Old_Woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 τίς δὲ γένος ἐστι οὗτος ὁ ἄνθρωπος;
 
 ---
 
 ![Woman](https://upload.wikimedia.org/wikipedia/commons/a/aa/Happy_Old_Woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 οὗτος ὁ ἄνθρωπος ἐστιν ἄνθρωπος θηλυκός.
+
 **γυνὴ** γάρ ἐστιν.
 
 ---
 
 ![Woman](https://upload.wikimedia.org/wikipedia/commons/a/aa/Happy_Old_Woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 αὕτη ἐστι γυνή.
 
 ---
 
 ![Woman](https://upload.wikimedia.org/wikipedia/commons/4/47/Agata_Kornhauser-Duda_Sejm_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 γυνή
 
 ---
 
 ![Woman](https://upload.wikimedia.org/wikipedia/commons/f/fa/Karen_woman_in_traditional_clothes_sitting_and_sewing.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 γυνή
 
 ---
 
 ![woman](https://upload.wikimedia.org/wikipedia/commons/b/bb/Lee_Ann_Remick%2C_London%2C_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 **ἡ** γυνή
 
 ---
 
 ![man](https://upload.wikimedia.org/wikipedia/commons/5/5a/Sabaa_Nissan_Militiaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 καὶ τίς γένος οὗτος ὁ ἄνθρωπός ἐστιν;
 
 ---
 
 ![man](https://upload.wikimedia.org/wikipedia/commons/5/5a/Sabaa_Nissan_Militiaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 οὗτος ὁ ἄνθρωπός ἐστιν ἄνθρωπος ἀρσενικός.
+
 **ἀνὴρ** γάρ ἐστιν.
 
 ---
 
 ![man](https://upload.wikimedia.org/wikipedia/commons/5/5a/Sabaa_Nissan_Militiaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 οὗτός ἐστιν ἀνήρ.
 
 ---
 
 ![man](https://upload.wikimedia.org/wikipedia/commons/0/06/Ernst_Hausleitner_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ἀνήρ
 
 ---
 
 ![man](https://upload.wikimedia.org/wikipedia/commons/c/c5/Karachi_-_Pakistan-market.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ἀνήρ
 
 ---
@@ -191,6 +204,7 @@
 ---
 
 ![marriage](https://upload.wikimedia.org/wikipedia/commons/7/7d/Wedding_scene.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ἀνήρ τις καὶ ἡ γυνὴ αὐτοῦ
 
 ---
