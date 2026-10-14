@@ -199,6 +199,7 @@
 ---
 
 ![man](https://upload.wikimedia.org/wikipedia/commons/3/3d/Bundesarchiv_Bild_183-1989-0412-001%2C_Lengefeld%2C_Gastarbeiter_aus_Mosambik.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 **ὁ** ἀνήρ
 
 ---
@@ -225,45 +226,67 @@
 
 ---
 
+![god](https://upload.wikimedia.org/wikipedia/commons/c/cb/GR-olympia-zeus-bild.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 τί δὲ ἐστι τοῦτο;
 
 ---
+
+![god](https://upload.wikimedia.org/wikipedia/commons/c/cb/GR-olympia-zeus-bild.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 οὗτός ἐστιν **θεός**.
 
 ---
 
+![goddess](https://upload.wikimedia.org/wikipedia/commons/1/1a/Athena_column-Academy_of_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 τί ἐστι τοῦτο;
 
 ---
+
+![goddess](https://upload.wikimedia.org/wikipedia/commons/1/1a/Athena_column-Academy_of_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 αὕτη ἐστι **θεᾱ́** ἢ **θεός**.
 
 ---
 
+![rock](https://upload.wikimedia.org/wikipedia/commons/c/c7/Fragment_of_an_inscribed_marble_block_MET_DP132681.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 τίς γένος ἐστι οὗτος ὁ θεός;
 
 ---
+
+![rock](https://upload.wikimedia.org/wikipedia/commons/c/c7/Fragment_of_an_inscribed_marble_block_MET_DP132681.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 οὐ θεός ἐστιν! λίθος γάρ ἐστιν!
 
 ---
 
+![hermes](https://upload.wikimedia.org/wikipedia/commons/5/57/Mercury_%28Hermes%29._Wood_engraving_by_Jonnard_after_W.B._Richm_Wellcome_V0035817.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 τίς γένος ἐστι οὗτος ὁ θεός;
 
 ---
+
+![hermes](https://upload.wikimedia.org/wikipedia/commons/5/57/Mercury_%28Hermes%29._Wood_engraving_by_Jonnard_after_W.B._Richm_Wellcome_V0035817.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 οὗτος ὁ θεός ἐστιν θεός ἀρσενικός.
 
 ---
 
+![hera](https://upload.wikimedia.org/wikipedia/commons/3/34/Marriage_of_Zeus_and_Hera_%28detail%29_Pompeian_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 τίς καὶ γένος;
 
 ---
 
+![hera](https://upload.wikimedia.org/wikipedia/commons/3/34/Marriage_of_Zeus_and_Hera_%28detail%29_Pompeian_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 αὕτη ἡ θεᾱ̀́ ἐστιν θεᾱ̀ θηλυκή.
 
 ---
+
+![god](https://upload.wikimedia.org/wikipedia/commons/c/cb/GR-olympia-zeus-bild.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 οὗτος ὁ θεός ἐστιν **Ἑλληνικός**.
 
@@ -284,6 +307,8 @@
 
 ---
 
+![god](https://upload.wikimedia.org/wikipedia/commons/c/cb/GR-olympia-zeus-bild.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)![goddess](https://upload.wikimedia.org/wikipedia/commons/1/1a/Athena_column-Academy_of_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 οἱ μὲν θεοὶ Ἑλληνικοί εἰσιν **ὁρατοί**.
 
 ---
@@ -292,41 +317,61 @@
 
 ---
 
+![god](https://upload.wikimedia.org/wikipedia/commons/c/cb/GR-olympia-zeus-bild.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ὁρατός
 
 ---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/GR-olympia-zeus-bild.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="opacity:0.4"/>
 
 ἀορατός
 
 ---
 
+![hermes](https://upload.wikimedia.org/wikipedia/commons/5/57/Mercury_%28Hermes%29._Wood_engraving_by_Jonnard_after_W.B._Richm_Wellcome_V0035817.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ποῖος θεός ἐστι; ὁρατὸς ἢ ἀορατός
 
 ---
+
+![hermes](https://upload.wikimedia.org/wikipedia/commons/5/57/Mercury_%28Hermes%29._Wood_engraving_by_Jonnard_after_W.B._Richm_Wellcome_V0035817.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ὁρατὸς θεός.
 
 ---
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Athena_column-Academy_of_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="opacity:0.4"/>
+
 ποῖα θεός ἐστι; ὁρατὴ ἢ ἀορατὴ
 
 ---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Athena_column-Academy_of_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="opacity:0.4"/>
 
 ἀορατὴ θεός ἢ ἀορατὴ θεᾱ́.
 
 ---
 
+![woman](https://upload.wikimedia.org/wikipedia/commons/4/4c/Pickersgill_Henry_W._-_A_Young_Greek_Woman_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ὁρατὸς ἄνθρωπος
 
 ---
+
+![man](https://upload.wikimedia.org/wikipedia/commons/3/3a/Old_Indian_man%2C_Bihar%2C_India%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ὁρατὸς ἀνήρ
 
 ---
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Old_Indian_man%2C_Bihar%2C_India%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="opacity:0.4"/>
+
 ἀορατὸς ἄνθρωπος
 
 ---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Pickersgill_Henry_W._-_A_Young_Greek_Woman_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="opacity:0.4"/>
 
 ἀορατή γυνή
 
