@@ -377,46 +377,75 @@
 
 ---
 
+![good](https://upload.wikimedia.org/wikipedia/commons/d/d6/Henry_Cavill_SDCC_2014_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 οὗτος μέν ἐστιν ἀνὴρ **καλός**.
 
 ---
+
+![ugly](https://upload.wikimedia.org/wikipedia/commons/6/60/Charles_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 οὗτος δὲ ἀνὴρ **κακός**.
 
 ---
 
+![beautiful](https://upload.wikimedia.org/wikipedia/en/3/3c/Chris_Hemsworth_as_Thor.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
+
 καλός ἀνήρ
 
 ---
+
+![ugly](https://upload.wikimedia.org/wikipedia/commons/a/a7/Frankenstein%27s_monster_%28Boris_Karloff%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 κακός ἀνήρ
 
 ---
 
+![man](https://upload.wikimedia.org/wikipedia/commons/f/fc/%27David%27_by_Michelangelo_JBU06.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ποῖος ἄνθρωπός ἐστιν; καλὸς ἢ κακὸς;
 
 ---
+
+![man](https://upload.wikimedia.org/wikipedia/commons/f/fc/%27David%27_by_Michelangelo_JBU06.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 καλὸς ἄνθρωπος
 
 ---
 
+![Rock](https://upload.wikimedia.org/wikipedia/commons/d/dd/Rock_%2855217818736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ποῖος ἄνθρωπός ἐστιν; καλὸς ἢ κακὸς;
 
 ---
+
+![Rock](https://upload.wikimedia.org/wikipedia/commons/d/dd/Rock_%2855217818736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 κακὸς ἄνθρωπος. οὗτος γὰρ οὐ μὴ ἄνθρωπος, λίθος ὤν!
 
 ---
 
+![man](https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ὁ καλὸς ἀνήρ
+
+---
+
+![ugly](https://upload.wikimedia.org/wikipedia/commons/c/c3/Gollum_wax_museum_mexico_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ὁ κακὸς ἀνήρ
 
 ---
 
+![ugly](https://upload.wikimedia.org/wikipedia/commons/3/30/The_Wizard_of_Oz_Margaret_Hamilton_1939_No_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
 ἡ κακὴ γυνή
-ἡ κακὴ γυνή
+
+---
+
+![pretty](https://upload.wikimedia.org/wikipedia/commons/9/98/The_Wizard_of_Oz_Judy_Garland_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+ἡ καλὴ γυνή
 
 ---
 

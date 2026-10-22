@@ -1,3 +1,11 @@
+---
+
+---
+
+Τὰ Γράμματα
+
+---
+
 ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΨΧΩ
 
 αβγδεζηθικλμνξοπρστυφψχω
@@ -241,3 +249,97 @@
 Ω μέγα
 
 ᾠόν
+
+---
+
+Οἱ Δίφθογγοι
+
+---
+
+αυ ευ οι αι ει ου υι
+
+ῳ ᾳ ῃ
+
+---
+
+![farmer](https://upload.wikimedia.org/wikipedia/commons/8/80/Farmer%2C_Nicaragua.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+αυ
+
+αὐτουργός
+
+---
+
+![europe](https://upload.wikimedia.org/wikipedia/commons/1/1b/Europe_satellite_orthographic.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+ευ
+
+Εὐρώπη
+
+---
+
+![wine](https://upload.wikimedia.org/wikipedia/commons/a/a5/A_glass_of_red_wine.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+οι
+
+οἴνος
+
+---
+
+![goat](https://upload.wikimedia.org/wikipedia/commons/9/93/Goat_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+αι
+
+αἴξ
+
+---
+
+![idol](https://upload.wikimedia.org/wikipedia/commons/2/2f/Worshiping_the_golden_calf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+ει
+
+εἴδωλον
+
+---
+
+![sky](https://upload.wikimedia.org/wikipedia/commons/2/2e/Cloudy_Sky_%2841158984%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+ου
+
+οὐρανός
+
+---
+
+![son](https://upload.wikimedia.org/wikipedia/commons/8/84/Father_and_Son_%286330243602%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+υι
+
+υἱός
+
+---
+
+![egg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Egg.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+ῳ ΩΙ
+
+ᾠόν
+
+---
+
+ᾳ ΑΙ
+
+---
+
+ῃ ΗΙ
+
+---
+
+πνεῦμα δασύ
+
+ὁ ἡ ἱ ἁ ὑ ὡ
+
+---
+
+πνεῦμα ψιλὸν
+
+ὀ ἠ ἰ ἀ ὐ ὠ
