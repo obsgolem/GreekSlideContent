@@ -1,7 +1,6 @@
 ---
 
 ---
-
 Τὰ Γράμματα
 
 ---
@@ -144,7 +143,7 @@
 
 ![sword](https://upload.wikimedia.org/wikipedia/commons/e/e5/Hand-and-a-Half_Sword_MET_DP146428.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-Χ ξ
+Ξ ξ
 
 Ξῖ
 
@@ -198,7 +197,7 @@
 
 Ταῦ
 
-τεχνή
+τεῖχος
 
 ---
 
@@ -336,10 +335,10 @@
 
 πνεῦμα δασύ
 
-ὁ ἡ ἱ ἁ ὑ ὡ
+ὁ ὡ ἑ ἡ ἱ ἁ ὑ
 
 ---
 
 πνεῦμα ψιλὸν
 
-ὀ ἠ ἰ ἀ ὐ ὠ
+ὀ ὠ ἐ ἠ ἰ ἀ ὐ
